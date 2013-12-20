@@ -1,0 +1,27 @@
+{"frames": [
+{
+	"filename": "space.png",
+	"frame": {"x":0,"y":0,"w":1024,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":768},
+	"sourceSize": {"w":1024,"h":768}
+},
+{
+	"filename": "earth.png",
+	"frame": {"x":0,"y":770,"w":220,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":10,"w":220,"h":222},
+	"sourceSize": {"w":256,"h":256}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "galaxy.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:32ffaf4b4aa15ef48f82ca3dfb72ac96$"
+}
+}
